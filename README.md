@@ -1,4 +1,4 @@
-<div style="display: flex;flex-flow: column wrap;align-items: center;">
+<div style="display: flex;flex-flow: column wrap;align-items: center; background-color: #AAAAAA">
     <header>
         <nav>
             <a href="#abt" style="display:inline;text-decoration:none;color:blue;" onMouseOver="this.style.color='red';this.style.border='1px solid red'" onMouseLeave="this.style.color='blue';this.style.border='none'">About me</a>
@@ -18,7 +18,7 @@
     <div style="list-style-type: none;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" style="width:40px;height:40px;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" alt="Python" style="width:40px;height:40px;" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" alt="Unity" style="width:40px;height:40px;" />
+        <svg viewBox="0 0 128 128" style="height:40px;width:40px"><path d="M82.48 63.578l22.418-38.402 10.832 38.402-10.832 38.398zm-10.926 6.238l22.422 38.402-39.047-9.922-28.211-28.48zM93.969 18.93L71.555 57.34H26.719L54.93 28.855zm32 31.582L112.293.031 61.25 13.559l-7.555 13.18-15.336-.109L1 63.582l37.359 36.949h.004l15.324-.113 7.57 13.176 51.035 13.527 13.676-50.473-7.762-13.07zm0 0" fill="#110B09"></path></svg>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" style="width:40px;height:40px;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" style="width:40px;height:40px;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" style="width:40px;height:40px;" />
