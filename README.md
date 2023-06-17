@@ -2,9 +2,9 @@
     <header>
         <nav>
             <a href="#abt" style="display:inline;text-decoration:none;color:blue;" onMouseOver="this.style.color='red';this.style.border='1px solid red'" onMouseLeave="this.style.color='blue';this.style.border='none'">About me</a>
-            <p style="display:inline;"> | </p>
+            <span> | </span>
             <a href="#langs" style="display:inline;text-decoration:none;color:blue;" onMouseOver="this.style.color='red';this.style.border='1px solid red'" onMouseLeave="this.style.color='blue';this.style.border='none'">Languages and Tools</a>
-            <p style="display:inline;"> | </p>
+            <span> | </span>
             <a href="#contact" style="display:inline;text-decoration:none;color:blue;" onMouseOver="this.style.color='red';this.style.border='1px solid red'" onMouseLeave="this.style.color='blue';this.style.border='none'">Contacts</a>
         </nav>
     </header>
