@@ -1,4 +1,3 @@
-<body>
 <div style="display: flex;flex-flow: column wrap;align-items: center;">
     <header>
         <nav>
@@ -31,4 +30,3 @@
     </div>
     <footer></footer>
 </div>
-</body>
