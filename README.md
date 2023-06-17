@@ -16,7 +16,7 @@
         <p style="margin-top:5px;margin-bottom:5px;">- I'm currently learning Python at <a href="https://softuni.bg/">SoftUni</a>, as well as many other things on my own.</p>
     </div>
     <h1 id="langs">Languages and Tools:</h1>
-    <div style="list-style-type: none; background-color:#AAAAAA">
+    <div style="list-style-type: none;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" style="width:40px;height:40px;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" alt="Python" style="width:40px;height:40px;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" alt="Unity" style="width:40px;height:40px;" />
