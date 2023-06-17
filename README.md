@@ -10,8 +10,8 @@
     </header>
     <h1 id="abt">About me:</h1>
     <div id="abt-desc" style="display:flex;flex-wrap:wrap;align-items:center;width:20%;">
-        <p style="margin-top:5px;margin-bottom:5px;">- Currently studying at Maths and Science High School "Akad. Sergey P. Koroliov", Blagoevgrad</p>
-        <p style="margin-top:5px;margin-bottom:5px;">- Studying to become a Software Engineer</p>
+        <p style="margin-top:5px;margin-bottom:5px;">- Currently studying at Maths and Science High School "Akad. Sergey P. Koroliov", Blagoevgrad.</p>
+        <p style="margin-top:5px;margin-bottom:5px;">- Studying to become a Software Engineer.</p>
         <p style="margin-top:5px;margin-bottom:5px;">- I'm currently learning Python at <a href="https://softuni.bg/">SoftUni</a>, as well as many other things on my own.</p>
     </div>
     <h1 id="langs">Languages and Tools:</h1>
