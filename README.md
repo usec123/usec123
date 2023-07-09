@@ -25,8 +25,8 @@
     </div>
     <h1 id="contact">How to contact me:</h1>
     <div style="align-content:center">
-        <a href="mailto::marcello_k@abv.bg" style="height:100px;padding-top:25px;"><img src="https://blog.abv.bg/wp-content/uploads/2009/2011/01/abv-logo.png" style="width:50px" alt="ABV" style="height:70px;" /></a>
-        <a href="mailto::marcello30032005@gmail.com"><img src="https://th.bing.com/th?id=ODLS.5e7ae0d8-1132-4a2a-8aa8-cb76156d41b8&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" alt="Gmail" style="width:40px;height:40px;" /></a>
+        <a href="mailto::marcello_k@abv.bg" style="height:100px;padding-top:25px;"><img src="https://blog.abv.bg/wp-content/uploads/2009/2011/01/abv-logo.png" style="width:50px" title="ABV" alt="ABV" style="height:70px;" /></a>
+        <a href="mailto::marcello30032005@gmail.com"><img src="https://th.bing.com/th?id=ODLS.5e7ae0d8-1132-4a2a-8aa8-cb76156d41b8&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" title="Gmail" alt="Gmail" style="width:40px;height:40px;" /></a>
     </div>
     <footer></footer>
 </div>
