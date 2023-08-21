@@ -1,41 +1,43 @@
-<style>
-    .container{
-        display: flex;
-        flex-flow: column wrap;
-        align-items: center;
-    }
-    .links{
-        display: inline;
-        text-decoration: none;
-        color: blue;
-    }
-    .links:hover{
-        color: red;
-        border: 1px solid red;
-    }
-    #abt-desc{
-        display: flex;
-        flex-wrap: wrap;
-        align-items: center;
-        width: 20%;
-    }
-    #langs+div img{
-        display: block;
-        width: 3em;
-        height: 3em;
-    }
-    #contact+div{
-        display: flex;
-        align-content:center;
-    }
-    #contact+div a img{
-        height: 100px;
-        padding-top: 25px;
-    }
-    #contact+div a img:first-of-type{
-        padding-top: 0px;
-    }
-</style>
+<head>
+    <style>
+        .container{
+            display: flex;
+            flex-flow: column wrap;
+            align-items: center;
+        }
+        .links{
+            display: inline;
+            text-decoration: none;
+            color: blue;
+        }
+        .links:hover{
+            color: red;
+            border: 1px solid red;
+        }
+        #abt-desc{
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            width: 20%;
+        }
+        #langs+div img{
+            display: block;
+            width: 3em;
+            height: 3em;
+        }
+        #contact+div{
+            display: flex;
+            align-content:center;
+        }
+        #contact+div a img{
+            height: 100px;
+            padding-top: 25px;
+        }
+        #contact+div a img:first-of-type{
+            padding-top: 0px;
+        }
+    </style>
+</head>
 <body>
     <div class="container">
         <header>
