@@ -1,5 +1,5 @@
 ## About me
-- Currently studying at the Maths and Science High School "Akad. Sergey P. Koroliov", Blagoevgrad.
+- Currently studying at AUBG - American University in Bulgaria, Blagoevgrad.
 - Currently learning Python at [SoftUni](https://softuni.bg/), as well as many other things on my own.
 ---
 
